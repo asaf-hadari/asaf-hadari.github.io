@@ -1,8 +1,3 @@
----
-layout: default
-title: R&D Services
----
-
 # R&D Services
 
 Our R&D services offer end-to-end solutions covering the entire spectrum from design to implementation. We specialize in various platforms and programming languages including:
